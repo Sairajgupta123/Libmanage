@@ -1,7 +1,6 @@
 # 📚 Library Management System – Java Console App
 
 A simple and modular **Library Management System** built using **Java**. This console-based application demonstrates core Object-Oriented Programming (OOP) principles including encapsulation, inheritance, and abstraction.
-
 It allows authenticated users to **add, view, and delete books**, with **role-based access** for admins and regular users.
 
 ---
@@ -43,19 +42,7 @@ It allows authenticated users to **add, view, and delete books**, with **role-ba
   - View all books
   - Delete a book (admin only)
 
----
-
-## 🚀 How to Run
-
-1. **Compile all files**:
-   ```bash
-   javac *.java
-   
-2.**Run the application**:
-  ```bash
-   java MainApp
-
-🧠 Concepts Used
+ 🧠 Concepts Used
 ✅ Object-Oriented Programming
 Classes, Objects, Inheritance, Encapsulation
 ✅ Role-Based Access Control
@@ -71,4 +58,16 @@ ArrayList for managing books
 
 🙋‍♂️ Author
 Developed by Sairaj Gupta – Passionate Java developer and problem solver.
+
+## 🚀 How to Run
+
+1. **Compile all files**:
+   ```bash
+   javac *.java
+   
+2.**Run the application**:
+  ```bash
+   java MainApp
+
+
 
